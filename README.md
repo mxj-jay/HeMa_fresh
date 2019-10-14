@@ -8,3 +8,5 @@
 + ### Nigix服务器实现反向代理，页面静态化，小型负载均衡
 + ### 进一步对前段页面抽离，进行优化
 + ### whoosh+haystack全局索引
+
+![image](https://github.com/mxj-jay/hello-world/blob/master/images/timg.jpg)
